@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaitUntilDonePattern", "WaitUntilDonePattern\WaitUntilDonePattern.csproj", "{70987FE4-F2B7-47D1-87AE-C92CC5EE936B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollingPattern", "PollingPattern\PollingPattern.csproj", "{94946479-C62F-40AE-9C3C-779E95C4C0A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallbackPattern", "CallbackPattern\CallbackPattern.csproj", "{DF968B78-02A7-40EB-A79A-18170E2D7815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70987FE4-F2B7-47D1-87AE-C92CC5EE936B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70987FE4-F2B7-47D1-87AE-C92CC5EE936B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70987FE4-F2B7-47D1-87AE-C92CC5EE936B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70987FE4-F2B7-47D1-87AE-C92CC5EE936B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94946479-C62F-40AE-9C3C-779E95C4C0A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94946479-C62F-40AE-9C3C-779E95C4C0A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94946479-C62F-40AE-9C3C-779E95C4C0A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94946479-C62F-40AE-9C3C-779E95C4C0A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF968B78-02A7-40EB-A79A-18170E2D7815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF968B78-02A7-40EB-A79A-18170E2D7815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF968B78-02A7-40EB-A79A-18170E2D7815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF968B78-02A7-40EB-A79A-18170E2D7815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
